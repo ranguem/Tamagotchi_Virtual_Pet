@@ -1,0 +1,6 @@
+{
+  "name": "타마고치 레트로 펫 - Tamagotchi Virtual Pet",
+  "description": "90년대 감성의 레트로 가상 반려동물 육성 웹 게임. 실시간 상태바, 감정 표현 애니메이션, 미니게임, 레벨업 및 진화 시스템 제공.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
